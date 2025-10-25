@@ -51,10 +51,9 @@ pnpm install    # or npm install / yarn install
 Create a `.env.local` file in the root directory and add the necessary environment variables:
 
 ```env
-# Example for Firestore setup
-NEXT_PUBLIC_FIREBASE_API_KEY=your_key_here
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_domain_here
-# ... other Firebase or custom keys
+
+# .env
+NEXT_PUBLIC_API_URL
 ```
 
 ## ▶️ Available Scripts
