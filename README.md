@@ -21,7 +21,7 @@ This is a brief, engaging description of your project. What does it do? Who is i
 | Frontend  | Next.js            | React Framework for production                    |
 | Language  | TypeScript         | For strong typing and better developer experience |
 | Styling   | Tailwind CSS       | Utility-first CSS framework                       |
-| Database  | Firebase Firestore | Fast, flexible, and scalable NoSQL cloud database |
+| Database  | MongoDB            |
 | Hosting   | Vercel             | (Or Netlify, AWS, etc.)                           |
 
 ## 🛠️ Installation and Setup
